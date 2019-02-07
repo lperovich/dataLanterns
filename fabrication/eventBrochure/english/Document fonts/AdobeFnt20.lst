@@ -1,0 +1,78 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoCondensed-Light
+FamilyName:Roboto Condensed
+StyleName:Light
+MenuName:Roboto Condensed Light
+StyleBits:0
+WeightClass:300
+WidthClass:3
+AngleClass:0
+FullName:Roboto Condensed Light
+WritingScript:Roman
+OutlineFileName:/Users/Shawn/Desktop/Research Project/Brochure - English/Document fonts/RobotoCondensed-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:141384
+FileModTime:518745052
+NameArray:0,Mac,18,Roboto Condensed Light
+NameArray:0,Mac,4,Roboto Condensed Light
+NameArray:0,Win,1,Roboto Condensed Light
+NameArray:0,Win,16,Roboto Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/Shawn/Desktop/Research Project/Brochure - English/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:568781382
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoCondensed-Regular
+FamilyName:Roboto Condensed
+StyleName:Regular
+MenuName:Roboto Condensed
+StyleBits:0
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Roboto Condensed Regular
+WritingScript:Roman
+OutlineFileName:/Users/Shawn/Desktop/Research Project/Brochure - English/Document fonts/RobotoCondensed-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:140396
+FileModTime:518745052
+NameArray:0,Mac,18,Roboto Condensed Regular
+NameArray:0,Mac,4,Roboto Condensed Regular
+NameArray:0,Win,1,Roboto Condensed
+%EndFont
+
